@@ -6,6 +6,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+이건 공통이다
 </body>
 </html>
